@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+	<meta charset = "UTF-8">
+	<title>Title</title>
+	<!-- 引入样式 -->
+	<link rel = "stylesheet" href = "https://unpkg.com/element-ui/lib/theme-chalk/index.css">
+	<!-- 引入组件库 -->
+	<script src = "https://unpkg.com/element-ui/lib/index.js"></script>
+</head>
+<body>
+<div id = "demoApp001">
+	<el-container>
+		<el-header>
+			我是头部
+		</el-header>
+		<el-container>
+			我是核心
+		</el-container>
+	</el-container>
+</div>
+<style>
+	.el-header, .el-footer {
+		background-color: #B3C0D1;
+		color: #333;
+		text-align: center;
+		line-height: 60px;
+	}
+	
+	.el-aside {
+		background-color: #D3DCE6;
+		color: #333;
+		text-align: center;
+		line-height: 200px;
+	}
+	
+	.el-main {
+		background-color: #E9EEF3;
+		color: #333;
+		text-align: center;
+		line-height: 160px;
+	}
+	
+	body > .el-container {
+		margin-bottom: 40px;
+	}
+	
+	.el-container:nth-child(5) .el-aside,
+	.el-container:nth-child(6) .el-aside {
+		line-height: 260px;
+	}
+	
+	.el-container:nth-child(7) .el-aside {
+		line-height: 320px;
+	}
+</style>
+<script>
+	new Vue({
+		el: '#demoApp001'
+	});
+</script>
+</body>
+</html>

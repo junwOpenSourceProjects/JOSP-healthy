@@ -15,6 +15,15 @@
 		<module>health_service_provider</module>
 		<module>spring_health_backend</module>
 	</modules>
+	<!--说明一下这里的关系：-->
+	<!--我们实际上只有一个provider是提供方-->
+	<!--mobile和backend都是服务的消费方-->
+
+
+
+
+
+
 
 	<properties>
 		<maven.compiler.source>19</maven.compiler.source>
