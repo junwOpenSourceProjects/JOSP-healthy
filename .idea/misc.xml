@@ -3,6 +3,7 @@
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/spring_parent/health_service_provider" />
+    <file type="web" url="file://$PROJECT_DIR$/spring_parent/spring_health_backend" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">

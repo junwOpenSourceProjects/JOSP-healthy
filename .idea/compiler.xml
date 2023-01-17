@@ -9,6 +9,7 @@
         <module name="health_service_provider" />
         <module name="spring_health_interface" />
         <module name="spring_health_common" />
+        <module name="spring_health_backend" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

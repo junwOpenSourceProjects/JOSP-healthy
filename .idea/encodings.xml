@@ -3,6 +3,8 @@
   <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$/spring_parent/health_service_provider/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring_parent/health_service_provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_parent/spring_health_backend/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_parent/spring_health_backend/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring_parent/spring_health_common/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring_parent/spring_health_common/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring_parent/spring_health_interface/src/main/java" charset="UTF-8" />
