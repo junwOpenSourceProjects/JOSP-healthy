@@ -6,7 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="health_service_provider" />
+        <module name="spring_health_interface" />
+        <module name="spring_health_common" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring_health_service_provider" target="19" />
+    </bytecodeTargetLevel>
   </component>
 </project>
