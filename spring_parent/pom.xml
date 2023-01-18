@@ -19,12 +19,6 @@
 	<!--我们实际上只有一个provider是提供方-->
 	<!--mobile和backend都是服务的消费方-->
 
-
-
-
-
-
-
 	<properties>
 		<maven.compiler.source>19</maven.compiler.source>
 		<maven.compiler.target>19</maven.compiler.target>
