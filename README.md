@@ -1,2 +1,3 @@
 # junwSpringBootHealth
 junwSpringBootHealth
+spring MVC已经过时，健身房管理和健康管理项目依托于dubboo和MVc模式开发，后面有时间继续补全，目前展示停止。
