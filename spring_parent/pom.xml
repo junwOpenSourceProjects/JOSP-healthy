@@ -41,7 +41,7 @@
 		<spring.security.version>5.0.5.RELEASE</spring.security.version>
 		<poi.version>4.1.1</poi.version>
 		<jedis.version>2.9.0</jedis.version>
-		<quartz.version>2.2.1</quartz.version>
+		<quartz.version>2.3.2</quartz.version>
 	</properties>
 	<!-- 依赖管理标签  必须加 -->
 	<!--使用了管理依赖标签，下面的依赖不会直接被继承，需要经过一道管理-->
