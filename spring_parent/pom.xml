@@ -20,8 +20,8 @@
 	<!--mobile和backend都是服务的消费方-->
 
 	<properties>
-		<maven.compiler.source>19</maven.compiler.source>
-		<maven.compiler.target>19</maven.compiler.target>
+		<maven.compiler.source>17</maven.compiler.source>
+		<maven.compiler.target>17</maven.compiler.target>
 		<!--<spring-native.version>0.12.1</spring-native.version>-->
 		<!--maven的打包配置-->
 		<!--<maven.compiler.source>8</maven.compiler.source>-->
