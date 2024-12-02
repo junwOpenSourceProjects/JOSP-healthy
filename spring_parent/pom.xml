@@ -32,7 +32,7 @@
 		<!-- 集中定义依赖版本号 -->
 
 		<junit.version>4.12</junit.version>
-		<spring.version>6.1.13</spring.version>
+		<spring.version>6.1.14</spring.version>
 		<pagehelper.version>4.1.4</pagehelper.version>
 		<servlet-api.version>2.5</servlet-api.version>
 		<dubbo.version>2.6.12</dubbo.version>
