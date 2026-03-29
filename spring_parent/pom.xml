@@ -45,7 +45,7 @@
 		<druid.version>1.0.9</druid.version>
 		<commons-fileupload.version>1.6.0</commons-fileupload.version>
 		<spring.security.version>5.2.10.RELEASE</spring.security.version>
-		<poi.version>4.1.1</poi.version>
+		<poi.version>5.4.0</poi.version>
 		<jedis.version>2.9.0</jedis.version>
 		<quartz.version>2.3.2</quartz.version>
 	</properties>
