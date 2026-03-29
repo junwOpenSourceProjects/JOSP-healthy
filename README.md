@@ -1,14 +1,14 @@
-# 🏥 JOSP-Healthy - 健康管理系统
+# 🏥 JOSP-Healthy - Spring框架学习项目
 
-![Java](https://img.shields.io/badge/Java-17+-orange?logo=java)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen?logo=springboot)
-![Vue](https://img.shields.io/badge/Vue-3.x-brightgreen?logo=vue.js)
-![MySQL](https://img.shields.io/badge/MySQL-8.0+-blue?logo=mysql)
+![Java](https://img.shields.io/badge/Java-8+-orange?logo=java)
+![Spring](https://img.shields.io/badge/Spring-5.x-brightgreen?logo=spring)
 ![License](https://img.shields.io/badge/License-AGPL--3.0-blue)
 
 ## 📖 项目简介
 
-JOSP-Healthy是一个综合性的健康管理系统,提供健康数据记录、健康指标分析、运动计划制定、饮食建议等功能,帮助用户管理个人健康。
+JOSP-Healthy是一个Spring框架学习项目,包含Spring框架的基础配置和Maven多模块项目结构示例。项目目前处于规划阶段,主要用于学习Spring框架的核心概念和配置方式。
+
+**⚠️ 注意**: 本项目为学习项目,暂无实际业务代码实现。
 
 ## 🏗️ 系统架构
 
